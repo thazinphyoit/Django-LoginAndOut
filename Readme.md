@@ -41,9 +41,9 @@ local computer (Add Project to Git Repository)
 4. git add .
 5. git status 
 6. git commit -m "first commit"
-7. git branch -M main
-8. git remote add origin https://github.com/thazinphyoit/Django-LoginAndOut.git
+7. git remote add origin https://github.com/thazinphyoit/Django-LoginAndOut.git
     *** notice -> https://github.com/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git 
+8. git branch -M main
 9. git push -u origin main
     (or)
    git push https://thazinphyoit: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@github.com/thazinphyoit/Django-LoginAndOut.git 
